@@ -71,9 +71,7 @@ Well since dual is a table that only has one row and is used to run operations I
 
 ## Complexity
 - Runtime AVG: 1398 ms
-
 - Memory: 0b
-
 
 ## SQL Script
 ```sql
